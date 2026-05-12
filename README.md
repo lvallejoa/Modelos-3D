@@ -25,7 +25,7 @@ Este repositorio contiene el Proyecto 1 del laboratorio: la selección, configur
 
 ## Video de Demostración
 
-[Ver video en YouTube (no listado)](https://www.youtube.com/watch?v=INSERTAR_ID)
+[Ver video en YouTube (no listado)](https://youtu.be/CMg6OZjSEls)
 
 El video muestra los 3 modelos ejecutando animaciones, lip-sync con audio pregrabado y transiciones entre estados. Duración máxima: 3 minutos.
 
